@@ -1,0 +1,34 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+main{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    border-radius: 20px;
+    width: 330px;
+    height: 511px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    box-shadow: 3px 8px 15px 7px rgba(0, 0, 0, 0.116);
+}
+img{
+    padding: 15px;
+    border-radius: 30px;
+    width: 90%;
+    
+}
+h2{
+    padding: 7px;
+    color: hsl(218, 44%, 22%);
+}
+p{
+    padding: 18px;
+    color: hsl(220, 15%, 55%);
+}
